@@ -1,0 +1,4 @@
+.venv/
+vaultx.db
+__pycache__/
+.env
