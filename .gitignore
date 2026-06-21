@@ -1,4 +1,14 @@
+# Ambiente virtual
 .venv/
-vaultx.db
+env/
+venv/
+
+# Banco de dados (para não subir dados locais)
+*.db
+*.sqlite3
+
+# Arquivos de sistema e Python
 __pycache__/
+*.pyc
+.DS_Store
 .env
